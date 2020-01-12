@@ -33,7 +33,7 @@
         android:id="@+id/test_startBtn1"
         android:layout_width="190dp"
         android:layout_height="46dp"
-        android:layout_marginTop="88dp"
+        android:layout_marginTop="100dp"
         android:layout_weight="1"
         android:background="@drawable/transperant_button"
         android:onClick="start_test"
